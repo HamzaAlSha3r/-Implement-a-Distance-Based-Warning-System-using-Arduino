@@ -1,0 +1,3 @@
+C:/Users/hamza/Desktop/4th first symmary/inerface/Task 1/codeTinkercade/cmake-build-debug/CMakeFiles/codeTinkercade.dir
+C:/Users/hamza/Desktop/4th first symmary/inerface/Task 1/codeTinkercade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamza/Desktop/4th first symmary/inerface/Task 1/codeTinkercade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
